@@ -16,4 +16,9 @@
     </Content>
   </ItemGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="9.0.1" />
+    <PackageReference Include="Tech.Zerodha.KiteConnect" Version="4.3.0" />
+  </ItemGroup>
+
 </Project>
